@@ -121,6 +121,54 @@ yarn type-check
 - `public/`: Static files such as images and icons.
 - `utils/`: Utility functions and helpers.
 
+## Pages
+
+The website includes the following pages:
+
+1. **Home Page (`/`)**:
+- Overview of the project.
+- Introduction to the different scenarios and features.
+- Links to explore other sections of the site.
+
+2. **Client Scenarios (`/scenarios`)**:
+
+- Detailed strategies for managing different client types (small businesses, startups, personal blogs, e-commerce).
+- Case studies or examples for each scenario.
+
+3. **Technology Stack (`/tech-stack`)**:
+
+- Explanation of the technology choices.
+- Pros and cons of different stacks (e.g., WordPress vs. custom solutions).
+- Resources and tools recommended for each technology.
+
+4. **Project Management (`/project-management`)**:
+
+- Best practices for setting timelines and managing client expectations.
+- Tips on hosting, maintenance, and updates.
+
+5. **Pricing Strategies (`/pricing`)**:
+
+- Guidelines for pricing your services based on the complexity of the project.
+- Examples of pricing models for different types of clients.
+
+6. **Tools & Best Practices (`/tools`)**:
+
+- List of essential tools (e.g., Git, Trello, Postman) for web development.
+- Best practices for coding, testing, and deployment.
+- Common mistakes to avoid.
+
+7. **Security and Maintenance (`/security`)**:
+
+- Overview of security best practices.
+- Importance of ongoing maintenance.
+- Steps to secure websites and ensure data protection.
+
+8. **About (`/about`)**:
+
+- Information about the project and its purpose.
+- Background of the developer.
+- Contact information.
+
 ## Deployment
 
 To deploy this project, you can use platforms like:
