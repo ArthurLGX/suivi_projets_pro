@@ -17,11 +17,19 @@ This repository is a comprehensive guide for organizing and executing website de
 
 This project is built with:
 
+### Frontend
+
 - **[Next.js](https://nextjs.org/)**: A React framework for building fast and scalable web applications.
 - **[TypeScript](https://www.typescriptlang.org/)**: A strongly-typed programming language that builds on JavaScript.
 - **[Tailwind CSS](https://tailwindcss.com/)**: A utility-first CSS framework for rapidly building custom user interfaces.
 - **[ESLint](https://eslint.org/)**: A tool for identifying and fixing problems in your JavaScript code.
 
+### Backend
+
+- **[NestJS](https://nestjs.com/)**: A progressive Node.js framework for building efficient, reliable, and scalable server-side applications.
+- **[TypeORM](https://typeorm.io/)**: An ORM framework for TypeScript and JavaScript (ES7, ES6, ES5) that can run in Node.js and other platforms.
+- **[MySQL](https://www.mysql.com/)**: A powerful, open-source object-relational database system.
+- **[JWT](https://jwt.io/)**: JSON Web Tokens for authentication.
 ## Getting Started
 
 ### Prerequisites
