@@ -37,7 +37,7 @@ Ensure you have the following installed:
 
 ```bash
 
-git clone https://github.com/yourusername/your-repo-name.git
+git clone [https://github.com/ArthurLGX/suivi_projets_pro.git]
 
 cd your-repo-name
 
